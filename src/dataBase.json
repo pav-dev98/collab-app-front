@@ -1,0 +1,52 @@
+{
+    "projects": [
+      {
+        "name": "Library Management System",
+        "description": "A web application to manage inventory, loans, and returns in a library.",
+        "technologies": ["HTML", "CSS", "JavaScript", "Node.js", "Express", "MongoDB"],
+        "members": ["Juan Perez", "Maria Garcia"],
+        "university": "National University",
+        "year": 2023
+      },
+      {
+        "name": "Online Learning Platform",
+        "description": "A platform for students to access online courses, watch videos, take exams, and receive certificates.",
+        "technologies": ["Python", "Django", "React", "MySQL"],
+        "members": ["Luis Martinez", "Ana Rodriguez", "Carlos Sanchez"],
+        "university": "Technological University",
+        "year": 2022
+      },
+      {
+        "name": "Habit Tracking Application",
+        "description": "A mobile application that helps users set and track their daily habits, set goals, and provide reminders.",
+        "technologies": ["Java", "Android SDK", "SQLite"],
+        "members": ["Laura Fernandez", "Pedro Lopez"],
+        "university": "Central University",
+        "year": 2024
+      },
+      {
+        "name": "Library Management System",
+        "description": "A web application to manage inventory, loans, and returns in a library.",
+        "technologies": ["HTML", "CSS", "JavaScript", "Node.js", "Express", "MongoDB"],
+        "members": ["Juan Perez", "Maria Garcia","Pavel Mansilla","Remo Cordova"],
+        "university": "National University",
+        "year": 2023
+      },
+      {
+        "name": "Online Learning Platform",
+        "description": "A platform for students to access online courses, watch videos, take exams, and receive certificates.",
+        "technologies": ["Python", "Django", "React", "MySQL"],
+        "members": ["Luis Martinez", "Ana Rodriguez", "Carlos Sanchez"],
+        "university": "Technological University",
+        "year": 2022
+      },
+      {
+        "name": "Habit Tracking Application",
+        "description": "A mobile application that helps users set and track their daily habits, set goals, and provide reminders.",
+        "technologies": ["Java", "Android SDK", "SQLite"],
+        "members": ["Laura Fernandez", "Pedro Lopez"],
+        "university": "Central University",
+        "year": 2024
+      }
+    ]
+  }
